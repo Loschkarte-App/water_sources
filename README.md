@@ -46,24 +46,26 @@ damit jede Datei handhabbar bleibt.
 
 | Datei | Datensätze |
 | --- | --- |
-| [`data/baden-wurttemberg.geojson`](data/baden-wurttemberg.geojson) | 2.829 |
-| [`data/bayern.geojson`](data/bayern.geojson) | 91.982 |
-| [`data/brandenburg.geojson`](data/brandenburg.geojson) | 775 |
-| [`data/hessen.geojson`](data/hessen.geojson) | 13.689 |
-| [`data/mecklenburg-vorpommern.geojson`](data/mecklenburg-vorpommern.geojson) | 440 |
-| [`data/niedersachsen.geojson`](data/niedersachsen.geojson) | 22.636 |
-| [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 7.685 |
+| [`data/baden-wurttemberg.geojson`](data/baden-wurttemberg.geojson) | 96.168 |
+| [`data/bayern.geojson`](data/bayern.geojson) | 100.000 |
+| [`data/bayern.part-02.geojson`](data/bayern.part-02.geojson) | 96.652 |
+| [`data/berlin.geojson`](data/berlin.geojson) | 13.352 |
+| [`data/brandenburg.geojson`](data/brandenburg.geojson) | 29.649 |
+| [`data/hamburg.geojson`](data/hamburg.geojson) | 16.309 |
+| [`data/hessen.geojson`](data/hessen.geojson) | 57.553 |
+| [`data/mecklenburg-vorpommern.geojson`](data/mecklenburg-vorpommern.geojson) | 7.715 |
+| [`data/niedersachsen.geojson`](data/niedersachsen.geojson) | 100.000 |
+| [`data/niedersachsen.part-02.geojson`](data/niedersachsen.part-02.geojson) | 25.169 |
+| [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 95.007 |
 | [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 100.000 |
 | [`data/ohne-zuordnung.part-02.geojson`](data/ohne-zuordnung.part-02.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-03.geojson`](data/ohne-zuordnung.part-03.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-04.geojson`](data/ohne-zuordnung.part-04.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-05.geojson`](data/ohne-zuordnung.part-05.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-06.geojson`](data/ohne-zuordnung.part-06.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-07.geojson`](data/ohne-zuordnung.part-07.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-08.geojson`](data/ohne-zuordnung.part-08.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-09.geojson`](data/ohne-zuordnung.part-09.geojson) | 41.251 |
-| [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 761 |
-| [`data/schleswig-holstein.geojson`](data/schleswig-holstein.geojson) | 10.599 |
+| [`data/ohne-zuordnung.part-03.geojson`](data/ohne-zuordnung.part-03.geojson) | 11.351 |
+| [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 33.315 |
+| [`data/saarland.geojson`](data/saarland.geojson) | 9.363 |
+| [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 8.956 |
+| [`data/sachsen.geojson`](data/sachsen.geojson) | 25.971 |
+| [`data/schleswig-holstein.geojson`](data/schleswig-holstein.geojson) | 49.157 |
+| [`data/thuringen.geojson`](data/thuringen.geojson) | 16.960 |
 
 Jede Datei ist eine vollständige `FeatureCollection`. Die Features stehen
 zeilenweise, nach `id` sortiert — dadurch bleiben die Git-Diffs zwischen zwei
