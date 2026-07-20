@@ -1,0 +1,19 @@
+Open Data Commons Open Database License (ODbL) v1.0
+
+Die Daten in diesem Repository stehen unter der Open Database License (ODbL)
+Version 1.0. Den vollständigen Lizenztext finden Sie unter:
+
+    https://opendatacommons.org/licenses/odbl/1-0/
+
+Erforderliche Namensnennung bei jeder Nutzung oder Weitergabe:
+
+    Wasserentnahmestellen: © Löschkarte.app-Mitwirkende und © OpenStreetMap-Mitwirkende, lizenziert unter ODbL 1.0
+
+Der Bestand enthält Daten von OpenStreetMap-Mitwirkenden
+(https://www.openstreetmap.org/copyright) und ist als Ganzes eine abgeleitete
+Datenbank im Sinne von Abschnitt 4.4 der ODbL. Die Share-alike-Pflicht gilt
+daher für den gesamten Datenbestand, einschließlich der von Feuerwehren
+beigetragenen Datensätze.
+
+Die Daten werden ohne Gewähr und ohne Zusicherung der Richtigkeit,
+Vollständigkeit oder Aktualität bereitgestellt.
