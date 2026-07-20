@@ -46,7 +46,7 @@ damit jede Datei handhabbar bleibt.
 
 | Datei | Datensätze |
 | --- | --- |
-| [`data/bayern.geojson`](data/bayern.geojson) | 8.163 |
+| [`data/bayern.geojson`](data/bayern.geojson) | 45.625 |
 | [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 100.000 |
 | [`data/ohne-zuordnung.part-02.geojson`](data/ohne-zuordnung.part-02.geojson) | 100.000 |
 | [`data/ohne-zuordnung.part-03.geojson`](data/ohne-zuordnung.part-03.geojson) | 100.000 |
@@ -56,7 +56,7 @@ damit jede Datei handhabbar bleibt.
 | [`data/ohne-zuordnung.part-07.geojson`](data/ohne-zuordnung.part-07.geojson) | 100.000 |
 | [`data/ohne-zuordnung.part-08.geojson`](data/ohne-zuordnung.part-08.geojson) | 100.000 |
 | [`data/ohne-zuordnung.part-09.geojson`](data/ohne-zuordnung.part-09.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-10.geojson`](data/ohne-zuordnung.part-10.geojson) | 84.484 |
+| [`data/ohne-zuordnung.part-10.geojson`](data/ohne-zuordnung.part-10.geojson) | 47.022 |
 
 Jede Datei ist eine vollständige `FeatureCollection`. Die Features stehen
 zeilenweise, nach `id` sortiert — dadurch bleiben die Git-Diffs zwischen zwei
