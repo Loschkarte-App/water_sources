@@ -46,7 +46,13 @@ damit jede Datei handhabbar bleibt.
 
 | Datei | Datensätze |
 | --- | --- |
-| [`data/bayern.geojson`](data/bayern.geojson) | 45.625 |
+| [`data/baden-wurttemberg.geojson`](data/baden-wurttemberg.geojson) | 2.829 |
+| [`data/bayern.geojson`](data/bayern.geojson) | 91.982 |
+| [`data/brandenburg.geojson`](data/brandenburg.geojson) | 775 |
+| [`data/hessen.geojson`](data/hessen.geojson) | 13.689 |
+| [`data/mecklenburg-vorpommern.geojson`](data/mecklenburg-vorpommern.geojson) | 440 |
+| [`data/niedersachsen.geojson`](data/niedersachsen.geojson) | 22.636 |
+| [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 7.685 |
 | [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 100.000 |
 | [`data/ohne-zuordnung.part-02.geojson`](data/ohne-zuordnung.part-02.geojson) | 100.000 |
 | [`data/ohne-zuordnung.part-03.geojson`](data/ohne-zuordnung.part-03.geojson) | 100.000 |
@@ -55,8 +61,9 @@ damit jede Datei handhabbar bleibt.
 | [`data/ohne-zuordnung.part-06.geojson`](data/ohne-zuordnung.part-06.geojson) | 100.000 |
 | [`data/ohne-zuordnung.part-07.geojson`](data/ohne-zuordnung.part-07.geojson) | 100.000 |
 | [`data/ohne-zuordnung.part-08.geojson`](data/ohne-zuordnung.part-08.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-09.geojson`](data/ohne-zuordnung.part-09.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-10.geojson`](data/ohne-zuordnung.part-10.geojson) | 47.022 |
+| [`data/ohne-zuordnung.part-09.geojson`](data/ohne-zuordnung.part-09.geojson) | 41.251 |
+| [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 761 |
+| [`data/schleswig-holstein.geojson`](data/schleswig-holstein.geojson) | 10.599 |
 
 Jede Datei ist eine vollständige `FeatureCollection`. Die Features stehen
 zeilenweise, nach `id` sortiert — dadurch bleiben die Git-Diffs zwischen zwei
