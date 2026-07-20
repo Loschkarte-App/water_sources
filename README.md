@@ -12,8 +12,8 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-07-18
-- **Datensätze:** 992.647
+- **Letzte Datenänderung:** 2026-07-20
+- **Datensätze:** 993.085
 
 ## Lizenz
 
@@ -46,26 +46,28 @@ damit jede Datei handhabbar bleibt.
 
 | Datei | Datensätze |
 | --- | --- |
-| [`data/baden-wurttemberg.geojson`](data/baden-wurttemberg.geojson) | 96.168 |
+| [`data/baden-wurttemberg.geojson`](data/baden-wurttemberg.geojson) | 100.000 |
+| [`data/baden-wurttemberg.part-02.geojson`](data/baden-wurttemberg.part-02.geojson) | 11.260 |
 | [`data/bayern.geojson`](data/bayern.geojson) | 100.000 |
-| [`data/bayern.part-02.geojson`](data/bayern.part-02.geojson) | 96.652 |
+| [`data/bayern.part-02.geojson`](data/bayern.part-02.geojson) | 100.000 |
+| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 35.715 |
 | [`data/berlin.geojson`](data/berlin.geojson) | 13.352 |
-| [`data/brandenburg.geojson`](data/brandenburg.geojson) | 29.649 |
+| [`data/brandenburg.geojson`](data/brandenburg.geojson) | 34.351 |
+| [`data/bremen.geojson`](data/bremen.geojson) | 2.572 |
 | [`data/hamburg.geojson`](data/hamburg.geojson) | 16.309 |
-| [`data/hessen.geojson`](data/hessen.geojson) | 57.553 |
-| [`data/mecklenburg-vorpommern.geojson`](data/mecklenburg-vorpommern.geojson) | 7.715 |
+| [`data/hessen.geojson`](data/hessen.geojson) | 64.951 |
+| [`data/mecklenburg-vorpommern.geojson`](data/mecklenburg-vorpommern.geojson) | 10.074 |
 | [`data/niedersachsen.geojson`](data/niedersachsen.geojson) | 100.000 |
-| [`data/niedersachsen.part-02.geojson`](data/niedersachsen.part-02.geojson) | 25.169 |
-| [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 95.007 |
-| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-02.geojson`](data/ohne-zuordnung.part-02.geojson) | 100.000 |
-| [`data/ohne-zuordnung.part-03.geojson`](data/ohne-zuordnung.part-03.geojson) | 11.351 |
-| [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 33.315 |
+| [`data/niedersachsen.part-02.geojson`](data/niedersachsen.part-02.geojson) | 36.236 |
+| [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 100.000 |
+| [`data/nordrhein-westfalen.part-02.geojson`](data/nordrhein-westfalen.part-02.geojson) | 19.842 |
+| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.086 |
+| [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 39.685 |
 | [`data/saarland.geojson`](data/saarland.geojson) | 9.363 |
-| [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 8.956 |
-| [`data/sachsen.geojson`](data/sachsen.geojson) | 25.971 |
-| [`data/schleswig-holstein.geojson`](data/schleswig-holstein.geojson) | 49.157 |
-| [`data/thuringen.geojson`](data/thuringen.geojson) | 16.960 |
+| [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 13.232 |
+| [`data/sachsen.geojson`](data/sachsen.geojson) | 33.282 |
+| [`data/schleswig-holstein.geojson`](data/schleswig-holstein.geojson) | 53.996 |
+| [`data/thuringen.geojson`](data/thuringen.geojson) | 21.779 |
 
 Jede Datei ist eine vollständige `FeatureCollection`. Die Features stehen
 zeilenweise, nach `id` sortiert — dadurch bleiben die Git-Diffs zwischen zwei
