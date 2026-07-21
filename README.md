@@ -13,7 +13,7 @@ Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
 - **Letzte Datenänderung:** 2026-07-20
-- **Datensätze:** 993.085
+- **Datensätze:** 993.097
 
 ## Lizenz
 
@@ -50,7 +50,7 @@ damit jede Datei handhabbar bleibt.
 | [`data/baden-wurttemberg.part-02.geojson`](data/baden-wurttemberg.part-02.geojson) | 11.260 |
 | [`data/bayern.geojson`](data/bayern.geojson) | 100.000 |
 | [`data/bayern.part-02.geojson`](data/bayern.part-02.geojson) | 100.000 |
-| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 35.715 |
+| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 35.727 |
 | [`data/berlin.geojson`](data/berlin.geojson) | 13.352 |
 | [`data/brandenburg.geojson`](data/brandenburg.geojson) | 34.351 |
 | [`data/bremen.geojson`](data/bremen.geojson) | 2.572 |
