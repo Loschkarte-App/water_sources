@@ -12,8 +12,8 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-08-01
-- **Datensätze:** 993.119
+- **Letzte Datenänderung:** 2026-08-02
+- **Datensätze:** 993.124
 
 ## Lizenz
 
@@ -61,7 +61,7 @@ damit jede Datei handhabbar bleibt.
 | [`data/niedersachsen.part-02.geojson`](data/niedersachsen.part-02.geojson) | 36.236 |
 | [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 100.000 |
 | [`data/nordrhein-westfalen.part-02.geojson`](data/nordrhein-westfalen.part-02.geojson) | 19.842 |
-| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.088 |
+| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.093 |
 | [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 39.685 |
 | [`data/saarland.geojson`](data/saarland.geojson) | 9.363 |
 | [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 13.232 |
