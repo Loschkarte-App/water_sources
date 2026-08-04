@@ -50,7 +50,7 @@ damit jede Datei handhabbar bleibt.
 | [`data/baden-wurttemberg.part-02.geojson`](data/baden-wurttemberg.part-02.geojson) | 11.260 |
 | [`data/bayern.geojson`](data/bayern.geojson) | 100.000 |
 | [`data/bayern.part-02.geojson`](data/bayern.part-02.geojson) | 100.000 |
-| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 35.747 |
+| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 35.754 |
 | [`data/berlin.geojson`](data/berlin.geojson) | 13.352 |
 | [`data/brandenburg.geojson`](data/brandenburg.geojson) | 34.351 |
 | [`data/bremen.geojson`](data/bremen.geojson) | 2.572 |
@@ -61,7 +61,7 @@ damit jede Datei handhabbar bleibt.
 | [`data/niedersachsen.part-02.geojson`](data/niedersachsen.part-02.geojson) | 36.236 |
 | [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 100.000 |
 | [`data/nordrhein-westfalen.part-02.geojson`](data/nordrhein-westfalen.part-02.geojson) | 19.842 |
-| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.093 |
+| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.086 |
 | [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 39.685 |
 | [`data/saarland.geojson`](data/saarland.geojson) | 9.363 |
 | [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 13.232 |
