@@ -12,7 +12,7 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-10-16
+- **Letzte Datenänderung:** 2026-10-17
 - **Datensätze:** 993.547
 
 ## Lizenz
