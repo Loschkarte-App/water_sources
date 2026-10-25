@@ -12,8 +12,8 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-10-23
-- **Datensätze:** 993.596
+- **Letzte Datenänderung:** 2026-10-24
+- **Datensätze:** 993.616
 
 ## Lizenz
 
@@ -50,7 +50,7 @@ damit jede Datei handhabbar bleibt.
 | [`data/baden-wurttemberg.part-02.geojson`](data/baden-wurttemberg.part-02.geojson) | 11.260 |
 | [`data/bayern.geojson`](data/bayern.geojson) | 100.000 |
 | [`data/bayern.part-02.geojson`](data/bayern.part-02.geojson) | 100.000 |
-| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 36.201 |
+| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 36.227 |
 | [`data/berlin.geojson`](data/berlin.geojson) | 13.352 |
 | [`data/brandenburg.geojson`](data/brandenburg.geojson) | 34.357 |
 | [`data/bremen.geojson`](data/bremen.geojson) | 2.572 |
@@ -61,13 +61,13 @@ damit jede Datei handhabbar bleibt.
 | [`data/niedersachsen.part-02.geojson`](data/niedersachsen.part-02.geojson) | 36.236 |
 | [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 100.000 |
 | [`data/nordrhein-westfalen.part-02.geojson`](data/nordrhein-westfalen.part-02.geojson) | 19.844 |
-| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.103 |
+| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.086 |
 | [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 39.685 |
 | [`data/saarland.geojson`](data/saarland.geojson) | 9.363 |
 | [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 13.232 |
 | [`data/sachsen.geojson`](data/sachsen.geojson) | 33.282 |
 | [`data/schleswig-holstein.geojson`](data/schleswig-holstein.geojson) | 53.996 |
-| [`data/thuringen.geojson`](data/thuringen.geojson) | 21.779 |
+| [`data/thuringen.geojson`](data/thuringen.geojson) | 21.790 |
 
 Jede Datei ist eine vollständige `FeatureCollection`. Die Features stehen
 zeilenweise, nach `id` sortiert — dadurch bleiben die Git-Diffs zwischen zwei
