@@ -1,4 +1,15 @@
-# Wasserentnahmestellen — Löschkarte.app
+<p align="center">
+  <a href="https://loeschkarte.app"><img src="https://loeschkarte.app/favicon.svg" width="88" height="88" alt="Löschkarte.App"></a>
+</p>
+
+<h1 align="center">Wasserentnahmestellen — Löschkarte.app</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.637-23302a" alt="Datensätze: 993.637">
+  <img src="https://img.shields.io/badge/Stand-2026--10--26-7a8a6f" alt="Stand: 2026-10-26">
+  <img src="https://img.shields.io/badge/Lizenz-ODbL%201.0-b23a2e" alt="Lizenz: ODbL 1.0">
+  <img src="https://img.shields.io/badge/Format-GeoJSON-5b6b60" alt="Format: GeoJSON">
+</p>
 
 Offene Daten zu Wasserentnahmestellen für die Feuerwehr in Deutschland:
 Hydranten (Unter-, Überflur, Wandhydranten), Löschwasserbehälter, Zisternen,
@@ -12,8 +23,8 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-10-25
-- **Datensätze:** 993.616
+- **Letzte Datenänderung:** 2026-10-26
+- **Datensätze:** 993.637
 
 ## Lizenz
 
@@ -50,7 +61,7 @@ damit jede Datei handhabbar bleibt.
 | [`data/baden-wurttemberg.part-02.geojson`](data/baden-wurttemberg.part-02.geojson) | 11.260 |
 | [`data/bayern.geojson`](data/bayern.geojson) | 100.000 |
 | [`data/bayern.part-02.geojson`](data/bayern.part-02.geojson) | 100.000 |
-| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 36.227 |
+| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 36.244 |
 | [`data/berlin.geojson`](data/berlin.geojson) | 13.352 |
 | [`data/brandenburg.geojson`](data/brandenburg.geojson) | 34.357 |
 | [`data/bremen.geojson`](data/bremen.geojson) | 2.572 |
@@ -58,10 +69,10 @@ damit jede Datei handhabbar bleibt.
 | [`data/hessen.geojson`](data/hessen.geojson) | 64.951 |
 | [`data/mecklenburg-vorpommern.geojson`](data/mecklenburg-vorpommern.geojson) | 10.074 |
 | [`data/niedersachsen.geojson`](data/niedersachsen.geojson) | 100.000 |
-| [`data/niedersachsen.part-02.geojson`](data/niedersachsen.part-02.geojson) | 36.236 |
+| [`data/niedersachsen.part-02.geojson`](data/niedersachsen.part-02.geojson) | 36.238 |
 | [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 100.000 |
 | [`data/nordrhein-westfalen.part-02.geojson`](data/nordrhein-westfalen.part-02.geojson) | 19.844 |
-| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.086 |
+| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.088 |
 | [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 39.685 |
 | [`data/saarland.geojson`](data/saarland.geojson) | 9.363 |
 | [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 13.232 |
