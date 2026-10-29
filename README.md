@@ -5,8 +5,8 @@
 <h1 align="center">Wasserentnahmestellen — Löschkarte.app</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.643-23302a" alt="Datensätze: 993.643">
-  <img src="https://img.shields.io/badge/Stand-2026--10--27-7a8a6f" alt="Stand: 2026-10-27">
+  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.644-23302a" alt="Datensätze: 993.644">
+  <img src="https://img.shields.io/badge/Stand-2026--10--28-7a8a6f" alt="Stand: 2026-10-28">
   <img src="https://img.shields.io/badge/Lizenz-ODbL%201.0-b23a2e" alt="Lizenz: ODbL 1.0">
   <img src="https://img.shields.io/badge/Format-GeoJSON-5b6b60" alt="Format: GeoJSON">
 </p>
@@ -23,8 +23,8 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-10-27
-- **Datensätze:** 993.643
+- **Letzte Datenänderung:** 2026-10-28
+- **Datensätze:** 993.644
 
 ## Lizenz
 
@@ -61,7 +61,7 @@ damit jede Datei handhabbar bleibt.
 | [`data/baden-wurttemberg.part-02.geojson`](data/baden-wurttemberg.part-02.geojson) | 11.260 |
 | [`data/bayern.geojson`](data/bayern.geojson) | 100.000 |
 | [`data/bayern.part-02.geojson`](data/bayern.part-02.geojson) | 100.000 |
-| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 36.251 |
+| [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 36.252 |
 | [`data/berlin.geojson`](data/berlin.geojson) | 13.352 |
 | [`data/brandenburg.geojson`](data/brandenburg.geojson) | 34.357 |
 | [`data/bremen.geojson`](data/bremen.geojson) | 2.572 |
