@@ -5,8 +5,8 @@
 <h1 align="center">Wasserentnahmestellen — Löschkarte.app</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.644-23302a" alt="Datensätze: 993.644">
-  <img src="https://img.shields.io/badge/Stand-2026--10--28-7a8a6f" alt="Stand: 2026-10-28">
+  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.645-23302a" alt="Datensätze: 993.645">
+  <img src="https://img.shields.io/badge/Stand-2026--10--29-7a8a6f" alt="Stand: 2026-10-29">
   <img src="https://img.shields.io/badge/Lizenz-ODbL%201.0-b23a2e" alt="Lizenz: ODbL 1.0">
   <img src="https://img.shields.io/badge/Format-GeoJSON-5b6b60" alt="Format: GeoJSON">
 </p>
@@ -23,8 +23,8 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-10-28
-- **Datensätze:** 993.644
+- **Letzte Datenänderung:** 2026-10-29
+- **Datensätze:** 993.645
 
 ## Lizenz
 
@@ -72,7 +72,7 @@ damit jede Datei handhabbar bleibt.
 | [`data/niedersachsen.part-02.geojson`](data/niedersachsen.part-02.geojson) | 36.238 |
 | [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 100.000 |
 | [`data/nordrhein-westfalen.part-02.geojson`](data/nordrhein-westfalen.part-02.geojson) | 19.844 |
-| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.087 |
+| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.088 |
 | [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 39.685 |
 | [`data/saarland.geojson`](data/saarland.geojson) | 9.363 |
 | [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 13.232 |
