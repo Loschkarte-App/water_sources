@@ -5,8 +5,8 @@
 <h1 align="center">Wasserentnahmestellen — Löschkarte.app</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.646-23302a" alt="Datensätze: 993.646">
-  <img src="https://img.shields.io/badge/Stand-2026--11--04-7a8a6f" alt="Stand: 2026-11-04">
+  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.645-23302a" alt="Datensätze: 993.645">
+  <img src="https://img.shields.io/badge/Stand-2026--11--07-7a8a6f" alt="Stand: 2026-11-07">
   <img src="https://img.shields.io/badge/Lizenz-ODbL%201.0-b23a2e" alt="Lizenz: ODbL 1.0">
   <img src="https://img.shields.io/badge/Format-GeoJSON-5b6b60" alt="Format: GeoJSON">
 </p>
@@ -23,8 +23,8 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-11-04
-- **Datensätze:** 993.646
+- **Letzte Datenänderung:** 2026-11-07
+- **Datensätze:** 993.645
 
 ## Lizenz
 
@@ -58,7 +58,7 @@ damit jede Datei handhabbar bleibt.
 | Datei | Datensätze |
 | --- | --- |
 | [`data/baden-wurttemberg.geojson`](data/baden-wurttemberg.geojson) | 100.000 |
-| [`data/baden-wurttemberg.part-02.geojson`](data/baden-wurttemberg.part-02.geojson) | 11.260 |
+| [`data/baden-wurttemberg.part-02.geojson`](data/baden-wurttemberg.part-02.geojson) | 11.259 |
 | [`data/bayern.geojson`](data/bayern.geojson) | 100.000 |
 | [`data/bayern.part-02.geojson`](data/bayern.part-02.geojson) | 100.000 |
 | [`data/bayern.part-03.geojson`](data/bayern.part-03.geojson) | 36.254 |
