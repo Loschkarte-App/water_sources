@@ -5,8 +5,8 @@
 <h1 align="center">Wasserentnahmestellen — Löschkarte.app</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.687-23302a" alt="Datensätze: 993.687">
-  <img src="https://img.shields.io/badge/Stand-2026--11--10-7a8a6f" alt="Stand: 2026-11-10">
+  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.688-23302a" alt="Datensätze: 993.688">
+  <img src="https://img.shields.io/badge/Stand-2026--11--12-7a8a6f" alt="Stand: 2026-11-12">
   <img src="https://img.shields.io/badge/Lizenz-ODbL%201.0-b23a2e" alt="Lizenz: ODbL 1.0">
   <img src="https://img.shields.io/badge/Format-GeoJSON-5b6b60" alt="Format: GeoJSON">
 </p>
@@ -23,8 +23,8 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-11-10
-- **Datensätze:** 993.687
+- **Letzte Datenänderung:** 2026-11-12
+- **Datensätze:** 993.688
 
 ## Lizenz
 
@@ -75,7 +75,7 @@ damit jede Datei handhabbar bleibt.
 | [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.108 |
 | [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 39.685 |
 | [`data/saarland.geojson`](data/saarland.geojson) | 9.363 |
-| [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 13.232 |
+| [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 13.233 |
 | [`data/sachsen.geojson`](data/sachsen.geojson) | 33.282 |
 | [`data/schleswig-holstein.geojson`](data/schleswig-holstein.geojson) | 53.996 |
 | [`data/thuringen.geojson`](data/thuringen.geojson) | 21.790 |
