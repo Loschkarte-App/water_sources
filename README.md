@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.694-23302a" alt="Datensätze: 993.694">
-  <img src="https://img.shields.io/badge/Stand-2026--11--19-7a8a6f" alt="Stand: 2026-11-19">
+  <img src="https://img.shields.io/badge/Stand-2026--11--21-7a8a6f" alt="Stand: 2026-11-21">
   <img src="https://img.shields.io/badge/Lizenz-ODbL%201.0-b23a2e" alt="Lizenz: ODbL 1.0">
   <img src="https://img.shields.io/badge/Format-GeoJSON-5b6b60" alt="Format: GeoJSON">
 </p>
@@ -23,7 +23,7 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-11-19
+- **Letzte Datenänderung:** 2026-11-21
 - **Datensätze:** 993.694
 
 ## Lizenz
