@@ -5,8 +5,8 @@
 <h1 align="center">Wasserentnahmestellen — Löschkarte.app</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.704-23302a" alt="Datensätze: 993.704">
-  <img src="https://img.shields.io/badge/Stand-2026--11--26-7a8a6f" alt="Stand: 2026-11-26">
+  <img src="https://img.shields.io/badge/Datens%C3%A4tze-993.703-23302a" alt="Datensätze: 993.703">
+  <img src="https://img.shields.io/badge/Stand-2026--11--27-7a8a6f" alt="Stand: 2026-11-27">
   <img src="https://img.shields.io/badge/Lizenz-ODbL%201.0-b23a2e" alt="Lizenz: ODbL 1.0">
   <img src="https://img.shields.io/badge/Format-GeoJSON-5b6b60" alt="Format: GeoJSON">
 </p>
@@ -23,8 +23,8 @@ OpenStreetMap.
 Offsite-Backup und als Bulk-Download für alle, die den kompletten Datenbestand
 möchten, ohne die REST-API zu paginieren.
 
-- **Letzte Datenänderung:** 2026-11-26
-- **Datensätze:** 993.704
+- **Letzte Datenänderung:** 2026-11-27
+- **Datensätze:** 993.703
 
 ## Lizenz
 
@@ -67,18 +67,18 @@ damit jede Datei handhabbar bleibt.
 | [`data/bremen.geojson`](data/bremen.geojson) | 2.572 |
 | [`data/hamburg.geojson`](data/hamburg.geojson) | 16.309 |
 | [`data/hessen.geojson`](data/hessen.geojson) | 64.951 |
-| [`data/mecklenburg-vorpommern.geojson`](data/mecklenburg-vorpommern.geojson) | 10.074 |
+| [`data/mecklenburg-vorpommern.geojson`](data/mecklenburg-vorpommern.geojson) | 10.075 |
 | [`data/niedersachsen.geojson`](data/niedersachsen.geojson) | 100.000 |
 | [`data/niedersachsen.part-02.geojson`](data/niedersachsen.part-02.geojson) | 36.238 |
 | [`data/nordrhein-westfalen.geojson`](data/nordrhein-westfalen.geojson) | 100.000 |
 | [`data/nordrhein-westfalen.part-02.geojson`](data/nordrhein-westfalen.part-02.geojson) | 19.845 |
-| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.126 |
+| [`data/ohne-zuordnung.geojson`](data/ohne-zuordnung.geojson) | 77.125 |
 | [`data/rheinland-pfalz.geojson`](data/rheinland-pfalz.geojson) | 39.685 |
 | [`data/saarland.geojson`](data/saarland.geojson) | 9.363 |
 | [`data/sachsen-anhalt.geojson`](data/sachsen-anhalt.geojson) | 13.233 |
 | [`data/sachsen.geojson`](data/sachsen.geojson) | 33.282 |
 | [`data/schleswig-holstein.geojson`](data/schleswig-holstein.geojson) | 53.996 |
-| [`data/thuringen.geojson`](data/thuringen.geojson) | 21.790 |
+| [`data/thuringen.geojson`](data/thuringen.geojson) | 21.789 |
 
 Jede Datei ist eine vollständige `FeatureCollection`. Die Features stehen
 zeilenweise, nach `id` sortiert — dadurch bleiben die Git-Diffs zwischen zwei
